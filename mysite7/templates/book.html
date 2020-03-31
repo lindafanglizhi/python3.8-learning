@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>book</title>
+</head>
+<body>
+<h1>书籍列表</h1>
+{% if book_index %}
+<ul>
+    {% for onebook in book_index %}
+    <li><a href="{{ onebook.id }}/">{{ onebook.title }}</a>{{ onebook.pub_date }}</li>
+    {% endfor %}
+</ul>
+{% else %}
+    <h2>抱歉暂时没加</h2>
+{% endif %}
+</body>
+</html>

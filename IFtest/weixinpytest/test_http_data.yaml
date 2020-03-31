@@ -1,0 +1,8 @@
+test-add-tag:
+  url: https://api.weixin.qq.com/cgi-bin/tags/create?access_token=
+  method: POST
+  headers: {'Content-Type':'application/json;charset=UTF-8'}
+test-edit-tag:
+  url: https://api.weixin.qq.com/cgi-bin/tags/edit?access_token=
+  method: POST
+  headers: {'Content-Type':'application/json;charset=UTF-8'}

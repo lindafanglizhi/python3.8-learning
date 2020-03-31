@@ -1,0 +1,57 @@
+2019-03-31 17:06:59,065 root INFO runner:18 开始执行测试用例
+2019-03-31 17:06:59,505 root INFO runner:20 测试用例结束
+2019-03-31 17:14:08,212 root INFO runner:18 开始执行测试用例
+2019-03-31 17:14:08,656 root INFO runner:20 测试用例结束
+2019-03-31 17:14:28,134 root INFO runner:18 开始执行测试用例
+2019-03-31 17:14:28,499 root INFO runner:20 测试用例结束
+2019-03-31 17:18:27,364 root INFO runner:18 开始执行测试用例
+2019-03-31 17:18:27,815 root INFO runner:20 测试用例结束
+2019-03-31 17:18:45,466 root INFO runner:18 开始执行测试用例
+2019-03-31 17:18:45,885 root INFO runner:20 测试用例结束
+2019-03-31 17:20:31,641 root INFO runner:18 开始执行测试用例
+2019-03-31 17:20:32,023 root INFO runner:20 测试用例结束
+2019-03-31 17:22:41,510 root INFO runner:18 开始执行测试用例
+2019-03-31 17:22:41,803 root INFO baseAPI:8 init base api interface
+2019-03-31 17:22:41,803 root INFO department:36 Init department management API
+2019-03-31 17:22:41,803 root INFO test_creat_depart:9 <weiFrame.baseApi.department.department.DeptManagment object at 0x110ad9cf8>
+2019-03-31 17:22:41,811 urllib3.connectionpool DEBUG connectionpool:813 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-03-31 17:22:42,145 urllib3.connectionpool DEBUG connectionpool:393 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwc88dd8afc4dcbc4b&corpsecret=6e8AFtQFI1UqSfF-O2_4EE16FM_8fn3DRrFOBwzU3xs HTTP/1.1" 200 277
+2019-03-31 17:22:42,150 urllib3.connectionpool DEBUG connectionpool:813 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-03-31 17:22:42,418 urllib3.connectionpool DEBUG connectionpool:393 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=HrKziYDloZ6XUQg9M0SddwAGsLEBjfCvXmUv9Nh4fOupbK0RCn4adwsdgzUPKtyZx0LR7N7vWLe2mn5V-pvX8EWrg0M4P_CqJuEzREduguZUl3GxjVbAHlY42jwAUPusunnsyR5eSdD8CmH-3BiVC6O7E54Oe72annNvPp47IQ9Ij6hyv-rEggvxNrQG0rzl_Ys21WCF09l-OK_sglapag HTTP/1.1" 200 202
+2019-03-31 17:22:42,489 root INFO runner:20 测试用例结束
+2019-03-31 17:24:20,152 root INFO runner:18 开始执行测试用例
+2019-03-31 17:24:20,494 root INFO baseAPI:8 init base api interface
+2019-03-31 17:24:20,494 root INFO department:36 Init department management API
+2019-03-31 17:24:20,494 root INFO test_creat_depart:9 <weiFrame.baseApi.department.department.DeptManagment object at 0x1102d7908>
+2019-03-31 17:24:20,502 urllib3.connectionpool DEBUG connectionpool:813 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-03-31 17:24:20,792 urllib3.connectionpool DEBUG connectionpool:393 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwc88dd8afc4dcbc4b&corpsecret=P8L-thRs3o_qS6AIpeXEZ5E_iotw_ORmIPv-FpM1D1o HTTP/1.1" 200 277
+2019-03-31 17:24:20,796 urllib3.connectionpool DEBUG connectionpool:813 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-03-31 17:24:21,040 urllib3.connectionpool DEBUG connectionpool:393 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=BGxUhrJSUsToJLxSEM10GhE8N0adluIwGwHEeloVDOhNi_vM61ww9Dcq43n4TdoF5q0jyHkdj1x2nl_MJHWDircfcTt8olLuDaOAcDrVHJH4qH5n3Du4-yTqnpp5QX3yXxx_tnVVtW3Ef8NNHmTFou2sCn81x46Dx-XhukZ6rwo_tBt-tgqpsqDCIOypMVy_HeGM-ARgjydUvQHqDMssTg HTTP/1.1" 200 165
+2019-03-31 17:24:21,108 root INFO runner:20 测试用例结束
+2019-03-31 17:27:07,693 root INFO runner:18 开始执行测试用例
+2019-03-31 17:27:07,973 root INFO baseAPI:8 init base api interface
+2019-03-31 17:27:07,974 root INFO department:36 Init department management API
+2019-03-31 17:27:07,974 root INFO test_creat_depart:9 <weiFrame.baseApi.department.department.DeptManagment object at 0x106003048>
+2019-03-31 17:27:07,982 urllib3.connectionpool DEBUG connectionpool:813 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-03-31 17:27:08,222 urllib3.connectionpool DEBUG connectionpool:393 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwc88dd8afc4dcbc4b&corpsecret=P8L-thRs3o_qS6AIpeXEZ5E_iotw_ORmIPv-FpM1D1o HTTP/1.1" 200 277
+2019-03-31 17:27:08,227 urllib3.connectionpool DEBUG connectionpool:813 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-03-31 17:27:08,573 urllib3.connectionpool DEBUG connectionpool:393 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=BGxUhrJSUsToJLxSEM10GhE8N0adluIwGwHEeloVDOhNi_vM61ww9Dcq43n4TdoF5q0jyHkdj1x2nl_MJHWDircfcTt8olLuDaOAcDrVHJH4qH5n3Du4-yTqnpp5QX3yXxx_tnVVtW3Ef8NNHmTFou2sCn81x46Dx-XhukZ6rwo_tBt-tgqpsqDCIOypMVy_HeGM-ARgjydUvQHqDMssTg HTTP/1.1" 200 39
+2019-03-31 17:27:08,579 root INFO runner:20 测试用例结束
+2019-03-31 17:29:21,245 root INFO runner:18 开始执行测试用例
+2019-03-31 17:29:21,519 root INFO baseAPI:8 init base api interface
+2019-03-31 17:29:21,519 root INFO department:36 Init department management API
+2019-03-31 17:29:21,519 root INFO test_creat_depart:9 <weiFrame.baseApi.department.department.DeptManagment object at 0x1069bd8d0>
+2019-03-31 17:29:21,527 urllib3.connectionpool DEBUG connectionpool:813 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-03-31 17:29:21,795 urllib3.connectionpool DEBUG connectionpool:393 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwc88dd8afc4dcbc4b&corpsecret=P8L-thRs3o_qS6AIpeXEZ5E_iotw_ORmIPv-FpM1D1o HTTP/1.1" 200 277
+2019-03-31 17:29:21,800 urllib3.connectionpool DEBUG connectionpool:813 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-03-31 17:29:22,158 urllib3.connectionpool DEBUG connectionpool:393 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=BGxUhrJSUsToJLxSEM10GhE8N0adluIwGwHEeloVDOhNi_vM61ww9Dcq43n4TdoF5q0jyHkdj1x2nl_MJHWDircfcTt8olLuDaOAcDrVHJH4qH5n3Du4-yTqnpp5QX3yXxx_tnVVtW3Ef8NNHmTFou2sCn81x46Dx-XhukZ6rwo_tBt-tgqpsqDCIOypMVy_HeGM-ARgjydUvQHqDMssTg HTTP/1.1" 200 39
+2019-03-31 17:29:22,164 root INFO runner:20 测试用例结束
+2019-03-31 17:31:30,033 root INFO runner:18 开始执行测试用例
+2019-03-31 17:31:30,349 root INFO baseAPI:8 init base api interface
+2019-03-31 17:31:30,349 root INFO department:36 Init department management API
+2019-03-31 17:31:30,349 root INFO test_creat_depart:9 <weiFrame.baseApi.department.department.DeptManagment object at 0x1107dddd8>
+2019-03-31 17:31:30,358 urllib3.connectionpool DEBUG connectionpool:813 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-03-31 17:31:30,628 urllib3.connectionpool DEBUG connectionpool:393 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwc88dd8afc4dcbc4b&corpsecret=P8L-thRs3o_qS6AIpeXEZ5E_iotw_ORmIPv-FpM1D1o HTTP/1.1" 200 277
+2019-03-31 17:31:30,634 urllib3.connectionpool DEBUG connectionpool:813 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-03-31 17:31:30,958 urllib3.connectionpool DEBUG connectionpool:393 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=BGxUhrJSUsToJLxSEM10GhE8N0adluIwGwHEeloVDOhNi_vM61ww9Dcq43n4TdoF5q0jyHkdj1x2nl_MJHWDircfcTt8olLuDaOAcDrVHJH4qH5n3Du4-yTqnpp5QX3yXxx_tnVVtW3Ef8NNHmTFou2sCn81x46Dx-XhukZ6rwo_tBt-tgqpsqDCIOypMVy_HeGM-ARgjydUvQHqDMssTg HTTP/1.1" 200 39
+2019-03-31 17:31:30,965 root INFO runner:20 测试用例结束
